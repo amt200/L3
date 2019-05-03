@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Bill Please</string>
+    <string name = "bill">Original Bill</string>
+    <string name = "people">Number of People</string>
+    <string name = "gst">Include GST?</string>
+    <string name = "sc">Include service charge?</string>
+    <string name = "total">Display average and total bill </string>
+    <string name = "disabled">Disabled</string>
+    <string name = "enabled">Enabled</string>
+
+</resources>
